@@ -14,10 +14,10 @@ TripEasy is a responsive group travel-planning web application. A trip Organiser
 
 ## Tech Stack
 
-**Backend:** Python, FastAPI, SQLAlchemy, PostgreSQL, JWT (python-jose), bcrypt (passlib)
-**Frontend:** React (Vite), React Router
+**Backend:** Python, FastAPI, SQLAlchemy, PostgreSQL, JWT , bcrypt (passlib)
+**Frontend:** React
 **AI:** Google Gemini API
-**Tools:** Git, GitHub, pgAdmin, Swagger/OpenAPI (auto-generated API docs)
+**Tools:** Git, GitHub, pgAdmin, Swagger/OpenAPI 
 
 ## Project Status
 
