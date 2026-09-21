@@ -55,6 +55,7 @@ class Activity(Base):
     activity_id = Column(Integer, primary_key=True)
     trip_id = Column(Integer, ForeignKey("trip.trip_id"))
     name = Column(String(255), nullable=False)
+    date = Column(Date)
     start_time = Column(Time)
     end_time = Column(Time)
     address = Column(String(255))
